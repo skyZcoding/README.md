@@ -15,6 +15,6 @@ I'm a full stack developer and Co-Owner of Codelance GmbH. I love trying out new
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skyZcoding&hide_border=true&hide=html,css,scss,pug,php,hack&theme=vue-dark&langs_count=3" alt="Jan Walker's GitHub Stats" />
 </a>
 
-#🚨 Streak
+# 🚨 Streak
 
 [![GitHub Streak](https://github-readme-streak-stats-neon.vercel.app?user=skyZcoding&theme=vue-dark&hide_border=true&border_radius=5&card_width=500)](https://git.io/streak-stats)
