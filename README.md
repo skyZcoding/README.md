@@ -9,10 +9,10 @@ I'm a full stack developer and Co-Owner of Codelance GmbH. I love trying out new
 # 📊 Github Stats
 
 <a href="https://github.com/skyZcoding/skyZcoding">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=skyZcoding&show_icons=true&line_height=27&count_private=true&theme=vue-dark&show=prs_merged&hide=contribs" alt="Jan Walker's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=skyZcoding&show_icons=true&hide_border=true&line_height=27&count_private=true&theme=vue-dark&show=prs_merged&hide=contribs" alt="Jan Walker's GitHub Stats" />
 </a>
 <a href="https://github.com/skyZcoding/skyZcoding">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skyZcoding&hide=html,css,scss,pug,php,hack&theme=vue-dark&langs_count=3" alt="Jan Walker's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skyZcoding&hide_border=true&hide=html,css,scss,pug,php,hack&theme=vue-dark&langs_count=3" alt="Jan Walker's GitHub Stats" />
 </a>
 
 #🚨 Streak
