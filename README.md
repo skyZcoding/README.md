@@ -6,4 +6,4 @@ I'm a full stack developer and Co-Owner of Codelance GmbH. I love trying out new
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=skyZcoding&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=skyZcoding&theme=vue-dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=skyZcoding&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=skyZcoding&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=true)
